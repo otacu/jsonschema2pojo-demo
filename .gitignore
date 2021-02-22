@@ -1,0 +1,5 @@
+/resources/json/
+/com/example/types/
+.iml
+/target
+/.idea
